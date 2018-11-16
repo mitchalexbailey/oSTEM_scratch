@@ -1,4 +1,5 @@
-```cd oSTEM_scratch
+```
+cd oSTEM_scratch
 pip install -r requirements.txt
 jupyter notebook
 ```
